@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../build/js/packages/ojaynico-kotlin-native-base-test/kotlin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/kotlin" type="kotlin-test" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="kotlin-test-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ojaynico-kotlin-native-base.main" scope="TEST" />
+    <orderEntry type="module" module-name="ojaynico-kotlin-native-base.main" scope="RUNTIME" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.4.30" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.30" level="project" />
+  </component>
+</module>
