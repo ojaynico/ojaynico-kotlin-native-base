@@ -19,6 +19,16 @@ https://nativebase.io/
 
 ## `How to use the wrapper?`
 
+Use the cli tool below to generate a new Kotlin React Native application.
+
+https://github.com/ojaynico/create-ojaynico-krn
+
+Proceed to the next step after generating the project.
+
+Run the following command in your projects root directory.
+
+`npm install native-base --save`
+
 In your react native application shared module (a kotlin gradle project), update your gradle file to include the following in the respective blocks.
 
 ```kotlin
