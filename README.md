@@ -1,6 +1,8 @@
 # ojaynico-kotlin-native-base
 [Download](https://search.maven.org/artifact/com.github.ojaynico/ojaynico-kotlin-native-base/1.0.0/pom)
 
+![https://kotl.in/jsirsupported](https://img.shields.io/badge/Kotlin%2FJS-IR%20supported-yellow)
+
 Kotlin Wrapper for Native Base
 
 Java Version : 14
