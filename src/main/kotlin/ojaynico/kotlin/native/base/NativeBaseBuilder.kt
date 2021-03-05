@@ -40,9 +40,9 @@ fun RBuilder.icon(handler: IconProps.() -> Unit) = child(Icon::class) {
     attrs(handler)
 }
 
-fun RBuilder.text(text: String, handler: TextProps.() -> Unit) = child(Text::class) {
+fun RBuilder.text(text: String, handler: RElementBuilder<TextProps>.() -> Unit) = child(Text::class) {
     this.childList.add(text)
-    attrs(handler)
+    handler()
 }
 
 fun RBuilder.title(text: String, handler: TitleProps.() -> Unit) = child(Title::class) {
