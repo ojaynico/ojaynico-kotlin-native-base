@@ -1,5 +1,5 @@
 # ojaynico-kotlin-native-base
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ojaynico/ojaynico-kotlin-native-base/badge.svg)](https://search.maven.org/artifact/com.github.ojaynico/ojaynico-kotlin-native-base/1.0.5/pom)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ojaynico/ojaynico-kotlin-native-base/badge.svg)](https://search.maven.org/artifact/com.github.ojaynico/ojaynico-kotlin-native-base/1.0.1/pom)
 [![Kotlin JS IR supported](https://img.shields.io/badge/Kotlin%2FJS-IR%20supported-yellow)](https://kotl.in/jsirsupported)
 
 Kotlin Wrapper for Native Base
