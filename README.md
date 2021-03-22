@@ -1,13 +1,12 @@
 # ojaynico-kotlin-native-base
-[Download](https://search.maven.org/artifact/com.github.ojaynico/ojaynico-kotlin-native-base/1.0.0/pom)
-
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ojaynico/ojaynico-kotlin-native-base/badge.svg)](https://search.maven.org/artifact/com.github.ojaynico/ojaynico-kotlin-native-base/1.0.5/pom)
 [![Kotlin JS IR supported](https://img.shields.io/badge/Kotlin%2FJS-IR%20supported-yellow)](https://kotl.in/jsirsupported)
 
 Kotlin Wrapper for Native Base
 
 Java Version : 14
 
-Kotlin Version : 1.4.30
+Kotlin Version : 1.4.31
 
 React Version : 17.0.1
 
@@ -39,7 +38,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.ojaynico:ojaynico-kotlin-native-base:1.0.0")
+    implementation("com.github.ojaynico:ojaynico-kotlin-native-base:1.0.1")
 }
 ```
 
