@@ -1,3 +1,5 @@
+# NOTE: Development on this project has been stopped. All effort will be put into improving the core React Native library which can be found in the repository https://github.com/ojaynico/ojaynico-kotlin-react-native
+
 # ojaynico-kotlin-native-base
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ojaynico/ojaynico-kotlin-native-base/badge.svg)](https://search.maven.org/artifact/com.github.ojaynico/ojaynico-kotlin-native-base/1.0.4/pom)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ojaynico/ojaynico-kotlin-react-native/badge.svg)](https://search.maven.org/artifact/com.github.ojaynico/ojaynico-kotlin-react-native/1.1.3/pom)
